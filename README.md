@@ -33,7 +33,7 @@ women's_participation_in_sports.pdf
 women_olympic_analysis.ipynb
 💻 A Jupyter Notebook with all the code, charts, and data analysis.
 
-images/ folder
+graphs/ folder
 🖼️ Contains graphs and visualizations created during the analysis.
 
 README.md
