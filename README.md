@@ -70,7 +70,7 @@ LICENSE
 
 ## 📘 Full Report
 
-For a detailed narrative with interpretation of the results, check the [report PDF](./report/women's_participation_in_sports.pdf).
+For a detailed narrative with interpretation of the results, check the [report PDF](https://github.com/mahaibrahim26/Women-participation-in-the-Olympics/blob/main/women's%20participation%20in%20sports.pdf).
 
 ---
 
