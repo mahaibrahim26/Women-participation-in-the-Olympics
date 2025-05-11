@@ -2,7 +2,8 @@
 
 This project investigates the evolution, performance, and representation of women in the Olympic Games through the lens of data analysis. It is based on historical data covering 120 years of Olympic records and explores gender disparities, national participation trends, and factors influencing medal achievement.
 
-> 📘 **Author:** Maha Ibrahim  
+> 📘 **Author:** Maha Ibrahim
+> **Contact: ** Maha.Ibrahim@stud.srh-campus-berlin.de
 
 ---
 
